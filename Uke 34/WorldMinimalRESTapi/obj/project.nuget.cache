@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kavEbcem24USwHQQlz2RfKuC2szYLOgwU9WwOF+CjpkCpZ2BMaaA+cbt0g/VNKHEG+KY/Fz3NRM6deYz3N7nSA==",
+  "success": true,
+  "projectFilePath": "C:\\GA\\Backend 2\\Emne 7 Avansert Programmering\\Emne 4 WorldGuiApp Base\\Uke 34\\WorldMinimalRESTapi\\WorldMinimalRESTapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdi8\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\abdi8\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\abdi8\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\abdi8\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\abdi8\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\abdi8\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\abdi8\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
